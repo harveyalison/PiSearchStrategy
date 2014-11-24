@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pi Search Strategy
+Comment=From http://www.blackwatermusic.net
+Exec=/home/pi/Pi_Search_Strategy/Run.sh
+Icon=/home/pi/Pi_Search_Strategy/Pi.png
+Terminal=false
+Type=Application
+Categories=Application;Games;
+StartupNotify=true
